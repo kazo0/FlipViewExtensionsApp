@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "FlipViewExtensionsApp",
+  "display": "standalone",
+  "name": "FlipViewExtensionsApp",
+  "short_name": "FlipViewExtensionsApp",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
